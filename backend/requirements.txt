@@ -1,0 +1,8 @@
+# Python 3.14-compatible dependency set for MedPlant AI
+fastapi==0.141.1
+uvicorn[standard]==0.35.0
+pydantic==2.13.0
+httpx==0.28.1
+sqlalchemy==2.0.52
+aiosqlite==0.21.0
+python-multipart==0.0.20

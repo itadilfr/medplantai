@@ -1,0 +1,13 @@
+
+# Python virtual environment and cache
+backend/.venv/
+**/__pycache__/
+*.pyc
+
+# Node.js dependencies
+frontend/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
